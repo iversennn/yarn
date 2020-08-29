@@ -1,0 +1,9 @@
+{
+  "name": "noroffyarn",
+  "version": "1.0.0",
+  "description": "just to show noroff that i can make a yarn package",
+  "main": "index.js",
+  "repository": "https://github.com/iversennn/yarn.git",
+  "author": "Simen Iversen",
+  "license": "MIT"
+}
