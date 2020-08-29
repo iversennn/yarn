@@ -6,5 +6,7 @@
   "repository": "https://github.com/iversennn/yarn.git",
   "author": "Simen Iversen",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
